@@ -82,7 +82,7 @@ print("{length: > 10d}".format(length = 30))
 print (f"my name is {name_str} and my age is {age_int+10} and height is {height_float}cm.")
 """
 
-""" TEST 8 : useful string function """
+""" TEST 8 : useful string function
 str = " Hello World! I study Python.  "
 
 num = str.count(' ') # the number of white_space
@@ -106,3 +106,5 @@ print (str.split())
 
 sentence = "I like studying Python"
 print (len(sentence), len(str))
+"""
+

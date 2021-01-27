@@ -1,4 +1,4 @@
-""" TEST 1: List """
+""" TEST 1: List
 oddnumber = [1, 3, 5, 7, 9]
 cafes = ['star', 'bene', 'yoger', 'friends']
 A = [1, 5, 'A', 'CC', 'B']
@@ -23,3 +23,11 @@ print(b + c)
 
 a = oddnumber[1:5]
 print(a)
+"""
+
+""" TEST 2 : """
+evennumber = [2, 4, 6, 8, 10]
+oddnumber = [1, 3, 5, 7, 9]
+
+number = evennumber + oddnumber
+print
