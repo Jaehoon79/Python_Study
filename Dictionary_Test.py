@@ -82,3 +82,7 @@ print(D)
 
 del D['C']
 print(D)
+
+list_D = list(D.keys())
+list_D.append('C')
+print(list_D)
